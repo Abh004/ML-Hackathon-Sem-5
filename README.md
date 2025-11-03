@@ -20,7 +20,7 @@ The agent is a combination of two components that work together:
         * **Win Game:** `+50`
         * **Lose Game:** `-50`
 
-## 🧠 How it Works
+## How it Works
 
 The agent's strategy manages the exploration vs. exploitation trade-off:
 
